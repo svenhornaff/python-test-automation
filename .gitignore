@@ -3,3 +3,4 @@ __pycache__/
 .pytest_cache/
 .vscode/
 src/webapp.egg-info/
+.coverage
